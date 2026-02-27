@@ -1,12 +1,19 @@
-## Hi there 👋
+# hsblabs
 
-<!--
+<img src="./logo.png" alt="hsblabs" width="196" />
 
-**Here are some ideas to get you started:**
+**A personal OSS organization by [@mktbsh](https://github.com/mktbsh)**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Building open-source tools and experiments — mostly around web, infrastructure, and developer experience.
+
+---
+
+個人OSSプロジェクトの公開場所です。TypeScript / Go / React を中心に、普段の開発で使えるツールや実験的なプロダクトを公開しています。
+
+---
+
+## Contact
+
+- Website: [hsb.horse](https://hsb.horse)
+- GitHub: [@mktbsh](https://github.com/mktbsh)
+- X (Twitter): [@hsb_horse](https://x.com/hsb_horse)
